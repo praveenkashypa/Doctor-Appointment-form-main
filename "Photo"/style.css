@@ -1,0 +1,31 @@
+.container{
+    margin-left: 100px;
+    margin-right: 130px;
+    margin-top: 20px;
+}
+.doctor_photo{
+    float: left;
+    width: 450px;
+}
+
+.form{
+    float: right;
+     height: 600px;
+     width: 550px; 
+} 
+.h1{
+   size: 30px;
+   margin-left: 90px;
+}
+.form p{
+   color: red;
+}
+.info1{
+    float: left;
+}
+.info2{
+    float: right;
+}
+.info2 .comment{
+    height: 20%;
+}
